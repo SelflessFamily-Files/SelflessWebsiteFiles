@@ -1,23 +1,72 @@
 [
   {
-    "name": "Dharmesh",
-	"position":"Founder at SelflessFamily",
-    "desc": "Founder of SelflessFamily on the year of dd-mm-yyyy. He is a Software developer at EPAM India and haiving a total of 3 yr of Develoment experience",
-    "linkedIn_url": "https://avatars.githubusercontent.com/u/1?v=4",
-    "image_url": "https://raw.githubusercontent.com/SelflessFamily-Files/SelflessWebsiteFiles/master/AboutUs/aboutimages/rahul.jpg?raw=true"
+    "name": "Dharmesh Kumar",
+	"position":"Java Full Stack Developer",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
   },
   {
-    "name": "MOHIT",
-	"position":"Founder at SelflessFamily",
-    "desc": "mohit desc",
-    "linkedIn_url": "https://avatars.githubusercontent.com/u/1?v=4",
-    "image_url": "https://avatars.githubusercontent.com/u/1?v=4"
+    "name": "Dhiraj kumar",
+	"position":".net Developer",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
   },
   {
-    "name": "MOHIT",
-	"position":"Founder at SelflessFamily",
-    "desc": "mohit desc",
-    "linkedIn_url": "https://avatars.githubusercontent.com/u/1?v=4",
-    "image_url": "https://avatars.githubusercontent.com/u/1?v=4"
+    "name": "Manazerul Haque Jamali",
+	"position":"AWS and Devops",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
+  },
+  {
+    "name": "Krishna Kumar ",
+	"position":"MERN Developer",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
+  },
+  {
+    "name": "Biswojit Kumar",
+	"position":"Salesforce Developer",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
+  },
+  {
+    "name": "Parsenjeet kumar ",
+	"position":"Salesforce Developer",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
+  },
+  {
+    "name": "Nilotpal arunab",
+	"position":"Salesforce Developer",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
+  },
+  {
+    "name": "Abhishek",
+	"position":"Java Developer",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
+  },
+  {
+    "name": "Shubham Gupta",
+	"position":"DS and Algorithms",
+    "desc": "",
+    "linkedIn_url": "",
+    "image_url": ""
+  },
+   {
+    "name": "Rahul Nag",
+	"position":"ReactJS Developer | Founder of CapsCode",
+    "desc": "",
+    "linkedIn_url": "https://www.capscode.in",
+    "image_url": ""
   }
 ]
